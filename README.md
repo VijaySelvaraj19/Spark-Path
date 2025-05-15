@@ -1,11 +1,9 @@
-
-
 ````markdown
-# Spark-Path - AI-Powered Startup Planner with Failure Prediction Model and Competitor Analysis  
-**Link here:(http://spark-path.vercel.app)
+# StartupPlannerAI - AI-Powered Startup Planner with Failure Prediction and Competitor Analysis  
+**Link here:** *(http://spark-path.vercel.app)*
 
 ## Overview  
-**Spark-Path** is an intelligent AI-powered platform designed to assist aspiring entrepreneurs in transforming their ideas into successful business strategies. This web-based tool uses AI models and the Gemini API to generate tailored startup roadmaps, predict potential failure risks, and provide dynamic competitor SWOT analysis. It simplifies the startup process with real-time mentorship, legal guidance, and continuous feedback, making it an ideal support system for first-time founders.
+**StartupPlannerAI** is an intelligent AI-powered platform designed to assist aspiring entrepreneurs in transforming their ideas into successful business strategies. This web-based tool uses AI models and the Gemini API to generate tailored startup roadmaps, predict potential failure risks, and provide dynamic competitor SWOT analysis. It simplifies the startup process with real-time mentorship, legal guidance, and continuous feedback, making it an ideal support system for first-time founders.
 
 ## Features  
 - **AI-Generated Startup Roadmap:** Personalized roadmap tailored to industry, budget, and goals using Gemini API.  
@@ -29,7 +27,7 @@ To set up the project locally, follow the instructions below.
 1. **Clone the repository:**  
 ```bash
 git clone https://github.com/VijaySelvaraj19/Spark-Path.git
-cd StartupPlannerAI
+cd Spark-Path
 ````
 
 2. **Install frontend dependencies:**
@@ -115,7 +113,7 @@ http://localhost:3000
 
 ## Conclusion
 
-**StartupPlannerAI** is a comprehensive and AI-integrated startup planning tool that bridges the gap between ideation and execution. Unlike traditional methods, it offers a dynamic and data-driven approach, combining roadmap generation, legal help, market analysis, and AI mentorship into one seamless experience. Designed to empower first-time founders, this platform enhances success chances while saving time and resources.
+**Spark-Path** is a comprehensive and AI-integrated startup planning tool that bridges the gap between ideation and execution. Unlike traditional methods, it offers a dynamic and data-driven approach, combining roadmap generation, legal help, market analysis, and AI mentorship into one seamless experience. Designed to empower first-time founders, this platform enhances success chances while saving time and resources.
 
 ---
 
@@ -125,6 +123,5 @@ http://localhost:3000
 
 1. Copy and paste this content into your `README.md` file in the root directory of your GitHub repo.
 2. Replace the placeholder link `*(Add your deployed project link here)*` with your actual deployment URL once ready.
-
 
 ```
