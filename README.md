@@ -23,11 +23,13 @@ To set up the project locally, follow the instructions below.
 - Modern Web Browser (Chrome, Firefox, etc.)  
 - Code Editor (Visual Studio Code preferred)
 
-### Installation  
+### Installation
+
 1. **Clone the repository:**  
 ```bash
 git clone https://github.com/VijaySelvaraj19/Spark-Path.git
 cd Spark-Path
+```
 ````
 
 2. **Install frontend dependencies:**
@@ -119,9 +121,6 @@ http://localhost:3000
 
 ```
 
-### ✅ To Use:
 
-1. Copy and paste this content into your `README.md` file in the root directory of your GitHub repo.
-2. Replace the placeholder link `*(Add your deployed project link here)*` with your actual deployment URL once ready.
 
 ```
