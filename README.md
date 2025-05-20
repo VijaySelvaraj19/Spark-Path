@@ -59,7 +59,7 @@ npm run dev
 ```
 
 5. **Open the browser and go to:**
-   [http://localhost:3000](http://localhost:3000)
+   [http://localhost:3000](https://spark-path.vercel.app)
 
 ## Technologies Used
 
