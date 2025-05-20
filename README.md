@@ -1,6 +1,6 @@
 ````markdown
 # StartupPlannerAI - AI-Powered Startup Planner with Failure Prediction and Competitor Analysis  
-**Link here:** http://spark-path.vercel.app
+**Live Demo:** [Click here to view the project](http://spark-path.vercel.app)
 
 ## Overview  
 **StartupPlannerAI** is an intelligent AI-powered platform designed to assist aspiring entrepreneurs in transforming their ideas into successful business strategies. This web-based tool uses AI models and the Gemini API to generate tailored startup roadmaps, predict potential failure risks, and provide dynamic competitor SWOT analysis. It simplifies the startup process with real-time mentorship, legal guidance, and continuous feedback, making it an ideal support system for first-time founders.
@@ -29,7 +29,6 @@ To set up the project locally, follow the instructions below.
 ```bash
 git clone https://github.com/VijaySelvaraj19/Spark-Path.git
 cd Spark-Path
-```
 ````
 
 2. **Install frontend dependencies:**
@@ -60,10 +59,7 @@ npm run dev
 ```
 
 5. **Open the browser and go to:**
-
-```
-http://localhost:3000
-```
+   [http://localhost:3000](http://localhost:3000)
 
 ## Technologies Used
 
@@ -86,41 +82,31 @@ http://localhost:3000
 ## System Modules
 
 1. **User Input Module:**
-
-   * Interactive form for collecting startup details (industry, goals, location, etc.)
+   Interactive form for collecting startup details (industry, goals, location, etc.)
 
 2. **AI Roadmap Generator Module:**
-
-   * Uses Gemini API to generate customized business plans
+   Uses Gemini API to generate customized business plans
 
 3. **Failure Prediction Module:**
-
-   * Predicts failure risks using Random Forest Classifier trained on startup data
+   Predicts failure risks using Random Forest Classifier trained on startup data
 
 4. **Competitor SWOT Analysis Module:**
-
-   * Gathers and analyzes data using GenAI to create SWOT reports
+   Gathers and analyzes data using GenAI to create SWOT reports
 
 5. **Legal Compliance Module:**
-
-   * Generates region- and domain-specific legal checklists
+   Generates region- and domain-specific legal checklists
 
 6. **AI Mentor Bot Module:**
-
-   * Offers real-time recommendations and business insights
+   Offers real-time recommendations and business insights
 
 7. **Final Output Module:**
-
-   * Displays startup roadmap, SWOT results, compliance checklist, and mentoring suggestions
+   Displays startup roadmap, SWOT results, compliance checklist, and mentoring suggestions
 
 ## Conclusion
 
 **Spark-Path** is a comprehensive and AI-integrated startup planning tool that bridges the gap between ideation and execution. Unlike traditional methods, it offers a dynamic and data-driven approach, combining roadmap generation, legal help, market analysis, and AI mentorship into one seamless experience. Designed to empower first-time founders, this platform enhances success chances while saving time and resources.
 
----
-
 ```
-
 
 
 ```
