@@ -1,7 +1,6 @@
-````markdown
 # Spark-Path - AI-Powered Startup Planner with Failure Prediction and Competitor Analysis  
- **Open the browser and go to:**
-   [Spark-Path](https://spark-path.vercel.app)
+ **Open the browser and go to:** [Spark-Path](https://spark-path.vercel.app)
+````markdown
 
 ## Overview  
 **Spark-Path** is an intelligent AI-powered platform designed to assist aspiring entrepreneurs in transforming their ideas into successful business strategies. This web-based tool uses AI models and the Gemini API to generate tailored startup roadmaps, predict potential failure risks, and provide dynamic competitor SWOT analysis. It simplifies the startup process with real-time mentorship, legal guidance, and continuous feedback, making it an ideal support system for first-time founders.
@@ -23,6 +22,7 @@ To set up the project locally, follow the instructions below.
 - Git  
 - Modern Web Browser (Chrome, Firefox, etc.)  
 - Code Editor (Visual Studio Code preferred)
+````
 
 ### Installation
 
@@ -30,7 +30,7 @@ To set up the project locally, follow the instructions below.
 ```bash
 git clone https://github.com/VijaySelvaraj19/Spark-Path.git
 cd Spark-Path
-````
+```
 
 2. **Install frontend dependencies:**
 
@@ -60,7 +60,7 @@ npm run dev
 ```
 
 5. **Open the browser and go to:**
-   [Spark-Path](https://spark-path.vercel.app)
+   [Spark-Path](http://localhost:3000)
 
 ## Technologies Used
 
